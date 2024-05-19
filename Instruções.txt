@@ -1,0 +1,6 @@
+Instruções de uso do programa de Cadastro de Clientes
+
+1- Abra o programa "Cadastro de Clientes.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Preencha todos os campos do cadastro e clique em "Cadastrar"
